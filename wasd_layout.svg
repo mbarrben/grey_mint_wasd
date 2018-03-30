@@ -8716,6 +8716,962 @@
         </g>
       </g>
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath41734">
+      <g
+         transform="matrix(0.08999893,0,0,0.08999893,37.05556,40.316131)"
+         id="g41736"
+         style="fill-rule:evenodd;display:inline">
+        <metadata
+           id="metadata41738" />
+        <g
+           id="g41740">
+          <path
+             id="path41742"
+             d="m 10323.2,3317.3333 c 0,40.5334 29.867,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.134,-33.0667 66.134,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.134,-72.5334 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41744">
+          <path
+             id="path41746"
+             d="m 786.13333,3598.9333 h -224 H 406.4 182.4 c -35.2,0 -62.93333,32 -62.93333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.93333,72.5334 h 224 155.73333 224 c 35.2,0 62.93334,-32 62.93334,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.93334,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41748">
+          <path
+             id="path41750"
+             d="m 1118.9333,4110.9333 c 0,40.5334 29.8667,72.5334 66.1334,72.5334 h 393.6 c 36.2666,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41752">
+          <path
+             id="path41754"
+             d="M 11116.8,2589.8667 V 3318.4 c 0,40.5333 28.8,72.5333 62.933,72.5333 h 224 154.667 224 c 35.2,0 62.933,-33.0666 62.933,-72.5333 v -1059.2 -1.0667 -188.8 c 0,-36.2666 -30.933,-67.2 -68.266,-67.2 l -782.934,3.2 c -37.333,0 -68.266,29.8667 -68.266,67.2 v 451.2 c 0,36.2667 30.933,67.2 68.266,67.2 h 121.6 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41756">
+          <path
+             id="path41758"
+             d="m 122.66667,550.4 c 0,40.53333 29.86666,72.53333 66.13333,72.53333 h 393.6 c 36.26667,0 66.13333,-33.06666 66.13333,-72.53333 V 110.93333 C 648.53333,70.4 618.66667,38.4 582.4,38.4 H 188.8 c -36.26667,0 -66.13333,32 -66.13333,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41760">
+          <path
+             id="path41762"
+             d="m 1729.0667,550.4 c 0,40.53333 29.8666,72.53333 66.1333,72.53333 h 393.6 c 36.2667,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 2254.9333,70.4 2225.0667,38.4 2188.8,38.4 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41764">
+          <path
+             id="path41766"
+             d="m 2528,550.4 c 0,40.53333 29.8667,72.53333 66.1333,72.53333 h 393.6 c 36.2667,0 66.1334,-33.06666 66.1334,-72.53333 V 110.93333 C 3053.8667,70.4 3024,38.4 2987.7333,38.4 h -393.6 C 2557.8667,38.4 2528,70.4 2528,110.93333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41768">
+          <path
+             id="path41770"
+             d="m 3328,550.4 c 0,40.53333 29.8667,72.53333 66.1333,72.53333 h 393.6 c 36.2667,0 66.1334,-33.06666 66.1334,-72.53333 V 110.93333 C 3853.8667,70.4 3824,38.4 3787.7333,38.4 h -393.6 C 3357.8667,38.4 3328,70.4 3328,110.93333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41772">
+          <path
+             id="path41774"
+             d="m 4128,550.4 c 0,40.53333 29.8667,72.53333 66.1333,72.53333 h 393.6 c 36.2667,0 66.1334,-33.06666 66.1334,-72.53333 V 110.93333 C 4653.8667,70.4 4624,38.4 4587.7333,38.4 h -393.6 C 4157.8667,38.4 4128,70.4 4128,110.93333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41776">
+          <path
+             id="path41778"
+             d="m 5323.7333,550.4 c 0,40.53333 29.8667,72.53333 66.1334,72.53333 h 393.6 c 36.2666,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 5849.6,70.4 5819.7333,38.4 5783.4667,38.4 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41780">
+          <path
+             id="path41782"
+             d="m 6123.7333,550.4 c 0,40.53333 29.8667,72.53333 66.1334,72.53333 h 393.6 c 36.2666,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 6649.6,70.4 6619.7333,38.4 6583.4667,38.4 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41784">
+          <path
+             id="path41786"
+             d="m 6923.7333,550.4 c 0,40.53333 29.8667,72.53333 66.1334,72.53333 h 393.6 c 36.2666,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 7449.6,70.4 7419.7333,38.4 7383.4667,38.4 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41788">
+          <path
+             id="path41790"
+             d="m 7723.7333,550.4 c 0,40.53333 29.8667,72.53333 66.1334,72.53333 h 393.6 c 36.2666,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 8249.6,70.4 8219.7333,38.4 8183.4667,38.4 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41792">
+          <path
+             id="path41794"
+             d="m 8919.4667,550.4 c 0,40.53333 29.8666,72.53333 66.1333,72.53333 h 393.6 c 36.2667,0 66.1333,-33.06666 66.1333,-72.53333 V 110.93333 C 9445.3333,70.4 9415.4667,38.4 9379.2,38.4 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41796">
+          <path
+             id="path41798"
+             d="m 9719.4667,550.4 c 0,40.53333 29.8666,72.53333 66.1333,72.53333 h 393.6 c 36.267,0 66.133,-33.06666 66.133,-72.53333 V 110.93333 C 10245.333,70.4 10215.467,38.4 10179.2,38.4 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41800">
+          <path
+             id="path41802"
+             d="m 10519.467,550.4 c 0,40.53333 29.866,72.53333 66.133,72.53333 h 393.6 c 36.267,0 66.133,-33.06666 66.133,-72.53333 V 110.93333 C 11045.333,70.4 11015.467,38.4 10979.2,38.4 h -393.6 c -36.267,0 -66.133,32 -66.133,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41804">
+          <path
+             id="path41806"
+             d="m 11318.4,550.4 c 0,40.53333 29.867,72.53333 66.133,72.53333 h 393.6 c 36.267,0 66.134,-33.06666 66.134,-72.53333 V 110.93333 C 11844.267,70.4 11814.4,38.4 11778.133,38.4 h -393.6 c -36.266,0 -66.133,32 -66.133,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41808">
+          <path
+             id="path41810"
+             d="m 122.66667,1715.2 c 0,40.5333 29.86666,72.5333 66.13333,72.5333 h 393.6 c 36.26667,0 66.13333,-33.0666 66.13333,-72.5333 V 1275.7333 C 648.53333,1235.2 618.66667,1203.2 582.4,1203.2 H 188.8 c -36.26667,0 -66.13333,32 -66.13333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41812">
+          <path
+             id="path41814"
+             d="m 922.66667,1715.2 c 0,40.5333 29.86666,72.5333 66.13333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 H 988.8 c -36.26667,0 -66.13333,32 -66.13333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41816">
+          <path
+             id="path41818"
+             d="m 1722.6667,1715.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41820">
+          <path
+             id="path41822"
+             d="m 2521.6,1715.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41824">
+          <path
+             id="path41826"
+             d="m 3321.6,1715.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41828">
+          <path
+             id="path41830"
+             d="m 4121.6,1715.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41832">
+          <path
+             id="path41834"
+             d="m 4920.5333,1715.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41836">
+          <path
+             id="path41838"
+             d="m 5720.5333,1715.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41840">
+          <path
+             id="path41842"
+             d="m 1322.6667,2515.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41844">
+          <path
+             id="path41846"
+             d="m 2121.6,2515.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41848">
+          <path
+             id="path41850"
+             d="m 2921.6,2515.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41852">
+          <path
+             id="path41854"
+             d="m 3721.6,2515.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41856">
+          <path
+             id="path41858"
+             d="m 4521.6,2515.2 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41860">
+          <path
+             id="path41862"
+             d="m 5320.5333,2515.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41864">
+          <path
+             id="path41866"
+             d="m 6120.5333,2515.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41868">
+          <path
+             id="path41870"
+             d="m 6920.5333,2515.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41872">
+          <path
+             id="path41874"
+             d="m 1522.1333,3314.1333 c 0,40.5334 29.8667,72.5334 66.1334,72.5334 h 393.6 c 36.2666,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41876">
+          <path
+             id="path41878"
+             d="m 2321.0667,3314.1333 c 0,40.5334 29.8666,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8666,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41880">
+          <path
+             id="path41882"
+             d="m 3121.0667,3314.1333 c 0,40.5334 29.8666,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8666,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41884">
+          <path
+             id="path41886"
+             d="m 3921.0667,3314.1333 c 0,40.5334 29.8666,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8666,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41888">
+          <path
+             id="path41890"
+             d="m 4721.0667,3314.1333 c 0,40.5334 29.8666,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8666,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41892">
+          <path
+             id="path41894"
+             d="m 5520,3314.1333 c 0,40.5334 29.8667,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1334,-33.0667 66.1334,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1334,-72.5334 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41896">
+          <path
+             id="path41898"
+             d="m 6320,3314.1333 c 0,40.5334 29.8667,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1334,-33.0667 66.1334,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1334,-72.5334 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41900">
+          <path
+             id="path41902"
+             d="m 7120,3314.1333 c 0,40.5334 29.8667,72.5334 66.1333,72.5334 h 393.6 c 36.2667,0 66.1334,-33.0667 66.1334,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1334,-72.5334 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41904">
+          <path
+             id="path41906"
+             d="m 1923.2,4108.8 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1334,-72.5333 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41908">
+          <path
+             id="path41910"
+             d="m 2722.1333,4108.8 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 V 3669.3333 C 3248,3628.8 3218.1333,3596.8 3181.8667,3596.8 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41912">
+          <path
+             id="path41914"
+             d="m 3522.1333,4108.8 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 V 3669.3333 C 4048,3628.8 4018.1333,3596.8 3981.8667,3596.8 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41916">
+          <path
+             id="path41918"
+             d="m 4322.1333,4108.8 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 V 3669.3333 C 4848,3628.8 4818.1333,3596.8 4781.8667,3596.8 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41920">
+          <path
+             id="path41922"
+             d="m 5121.0667,4108.8 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41924">
+          <path
+             id="path41926"
+             d="m 5921.0667,4108.8 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41928">
+          <path
+             id="path41930"
+             d="m 6721.0667,4108.8 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41932">
+          <path
+             id="path41934"
+             d="m 7521.0667,4108.8 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41936">
+          <path
+             id="path41938"
+             d="m 6520.5333,1715.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41940">
+          <path
+             id="path41942"
+             d="m 7320.5333,1715.2 c 0,40.5333 29.8667,72.5333 66.1334,72.5333 h 393.6 c 36.2666,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8667,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41944">
+          <path
+             id="path41946"
+             d="m 8119.4667,1715.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41948">
+          <path
+             id="path41950"
+             d="m 7719.4667,2515.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41952">
+          <path
+             id="path41954"
+             d="m 8519.4667,2515.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41956">
+          <path
+             id="path41958"
+             d="m 9319.4667,2515.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41960">
+          <path
+             id="path41962"
+             d="m 7918.9333,3314.1333 c 0,40.5334 29.8667,72.5334 66.1334,72.5334 h 393.6 c 36.2666,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41964">
+          <path
+             id="path41966"
+             d="m 8718.9333,3314.1333 c 0,40.5334 29.8667,72.5334 66.1334,72.5334 h 393.6 c 36.2666,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.8667,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41968">
+          <path
+             id="path41970"
+             d="m 9518.9333,3314.1333 c 0,40.5334 29.8667,72.5334 66.1334,72.5334 h 393.6 c 36.2663,0 66.1333,-33.0667 66.1333,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.1333,-72.5334 h -393.6 c -36.2667,0 -66.1334,32 -66.1334,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41972">
+          <path
+             id="path41974"
+             d="m 8919.4667,1715.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1333,-33.0666 66.1333,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -66.1333,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41976">
+          <path
+             id="path41978"
+             d="m 9719.4667,1715.2 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.2667,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41980">
+          <path
+             id="path41982"
+             d="m 12332.8,550.4 c 0,40.53333 29.867,72.53333 66.133,72.53333 h 393.6 c 36.267,0 66.134,-33.06666 66.134,-72.53333 V 110.93333 C 12858.667,70.4 12828.8,38.4 12792.533,38.4 h -393.6 c -36.266,0 -66.133,32 -66.133,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41984">
+          <path
+             id="path41986"
+             d="m 13131.733,550.4 c 0,40.53333 29.867,72.53333 66.134,72.53333 h 393.6 c 36.266,0 66.133,-33.06666 66.133,-72.53333 V 110.93333 C 13657.6,70.4 13627.733,38.4 13591.467,38.4 h -393.6 c -36.267,0 -66.134,32 -66.134,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41988">
+          <path
+             id="path41990"
+             d="m 13931.733,550.4 c 0,40.53333 29.867,72.53333 66.134,72.53333 h 393.6 c 36.266,0 66.133,-33.06666 66.133,-72.53333 V 110.93333 C 14457.6,70.4 14427.733,38.4 14391.467,38.4 h -393.6 c -36.267,0 -66.134,32 -66.134,72.53333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41992">
+          <path
+             id="path41994"
+             d="m 12332.8,1715.2 c 0,40.5333 29.867,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.134,-33.0666 66.134,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.134,-72.5333 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g41996">
+          <path
+             id="path41998"
+             d="m 13131.733,1715.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42000">
+          <path
+             id="path42002"
+             d="m 13931.733,1715.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42004">
+          <path
+             id="path42006"
+             d="m 12332.8,2515.2 c 0,40.5333 29.867,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.134,-33.0666 66.134,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.134,-72.5333 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42008">
+          <path
+             id="path42010"
+             d="m 13131.733,2515.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42012">
+          <path
+             id="path42014"
+             d="m 13931.733,2515.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42016">
+          <path
+             id="path42018"
+             d="m 13131.733,4108.8 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42020">
+          <path
+             id="path42022"
+             d="m 14946.133,1715.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42024">
+          <path
+             id="path42026"
+             d="m 15745.067,1715.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42028">
+          <path
+             id="path42030"
+             d="m 16545.067,1715.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42032">
+          <path
+             id="path42034"
+             d="m 14946.133,2515.2 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42036">
+          <path
+             id="path42038"
+             d="m 15745.067,2515.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42040">
+          <path
+             id="path42042"
+             d="m 16545.067,2515.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42044">
+          <path
+             id="path42046"
+             d="m 14946.133,3314.1333 c 0,40.5334 29.867,72.5334 66.134,72.5334 h 393.6 c 36.266,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42048">
+          <path
+             id="path42050"
+             d="m 15745.067,3314.1333 c 0,40.5334 29.866,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.866,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42052">
+          <path
+             id="path42054"
+             d="m 16545.067,3314.1333 c 0,40.5334 29.866,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.866,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42056">
+          <path
+             id="path42058"
+             d="m 14946.133,4108.8 c 0,40.5333 29.867,72.5333 66.134,72.5333 h 393.6 c 36.266,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.867,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42060">
+          <path
+             id="path42062"
+             d="m 15745.067,4108.8 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42064">
+          <path
+             id="path42066"
+             d="m 16545.067,4108.8 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42068">
+          <path
+             id="path42070"
+             d="m 17345.067,1715.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42072">
+          <path
+             id="path42074"
+             d="m 16545.067,4907.7333 c 0,40.5334 29.866,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.866,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42076">
+          <path
+             id="path42078"
+             d="m 10119.467,2515.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 393.6 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 h -393.6 c -36.267,0 -66.133,32 -66.133,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42080">
+          <path
+             id="path42082"
+             d="m 8320,4108.8 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 V 3669.3333 C 8845.8667,3628.8 8816,3596.8 8779.7333,3596.8 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42084">
+          <path
+             id="path42086"
+             d="m 9120,4108.8 c 0,40.5333 29.8667,72.5333 66.1333,72.5333 h 393.6 c 36.2667,0 66.1334,-33.0666 66.1334,-72.5333 V 3669.3333 C 9645.8667,3628.8 9616,3596.8 9579.7333,3596.8 h -393.6 c -36.2666,0 -66.1333,32 -66.1333,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42088">
+          <path
+             id="path42090"
+             d="m 12332.8,4907.7333 c 0,40.5334 29.867,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.134,-33.0667 66.134,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.134,-72.5334 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42092">
+          <path
+             id="path42094"
+             d="m 13131.733,4907.7333 c 0,40.5334 29.867,72.5334 66.134,72.5334 h 393.6 c 36.266,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42096">
+          <path
+             id="path42098"
+             d="m 13931.733,4907.7333 c 0,40.5334 29.867,72.5334 66.134,72.5334 h 393.6 c 36.266,0 66.133,-33.0667 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.133,-72.5334 h -393.6 c -36.267,0 -66.134,32 -66.134,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42100">
+          <path
+             id="path42102"
+             d="m 786.13333,4395.7333 h -224 H 406.4 182.4 c -35.2,0 -62.93333,32 -62.93333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.93333,72.5334 h 224 155.73333 224 c 35.2,0 62.93334,-32 62.93334,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.93334,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42104">
+          <path
+             id="path42106"
+             d="m 1785.6,4395.7333 h -224 -154.6667 -224 c -35.2,0 -62.9333,32 -62.9333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.9333,72.5334 h 224 154.6667 224 c 35.2,0 62.9333,-32 62.9333,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.9333,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42108">
+          <path
+             id="path42110"
+             d="m 2786.1333,4395.7333 h -224 -155.7333 -224 c -35.2,0 -62.9333,32 -62.9333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.9333,72.5334 h 224 155.7333 224 c 35.2,0 62.9334,-32 62.9334,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.9334,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42112">
+          <path
+             id="path42114"
+             d="m 16202.667,4395.7333 h -1189.334 c -36.266,0 -66.133,32 -66.133,72.5334 v 439.4666 c 0,40.5334 29.867,72.5334 66.133,72.5334 h 1189.334 c 36.266,0 66.133,-32 66.133,-72.5334 v -439.4666 c 0,-40.5334 -29.867,-72.5334 -66.133,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42116">
+          <path
+             id="path42118"
+             d="m 17803.733,2002.1333 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5334 v 392.5333 46.9333 360.5334 32 407.4666 c 0,40.5334 29.867,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.134,-33.0667 66.134,-72.5334 v -407.4666 -32 -360.5334 -46.9333 -392.5333 c 0,-40.5334 -29.867,-72.5334 -66.134,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42120">
+          <path
+             id="path42122"
+             d="m 17803.733,3595.7333 h -393.6 c -36.266,0 -66.133,32 -66.133,72.5334 v 392.5333 46.9333 360.5334 32 407.4666 c 0,40.5334 29.867,72.5334 66.133,72.5334 h 393.6 c 36.267,0 66.134,-32 66.134,-72.5334 v -407.4666 -32 -360.5334 -46.9333 -392.5333 c 0,-40.5334 -29.867,-72.5334 -66.134,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42124">
+          <path
+             id="path42126"
+             d="m 11782.4,4395.7333 h -224 -154.667 -224 c -35.2,0 -62.933,32 -62.933,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.933,72.5334 h 224 154.667 224 c 35.2,0 62.933,-33.0667 62.933,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.933,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42128">
+          <path
+             id="path42130"
+             d="m 9783.4667,4395.7333 h -224 -154.6667 -224 c -35.2,0 -62.9333,32 -62.9333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.9333,72.5334 h 224 154.6667 224 c 35.2,0 62.9333,-33.0667 62.9333,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.9333,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42132">
+          <path
+             id="path42134"
+             d="m 8784,4395.7333 h -224 -154.6667 -224 c -35.2,0 -62.9333,32 -62.9333,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.9333,72.5334 h 224 H 8560 8784 c 35.2,0 62.9333,-32 62.9333,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.9333,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42136">
+          <path
+             id="path42138"
+             d="m 11779.2,1203.2 h -1196.8 c -36.267,0 -66.133,32 -66.133,72.5333 V 1715.2 c 0,40.5333 29.866,72.5333 66.133,72.5333 h 1196.8 c 36.267,0 66.133,-33.0666 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42140">
+          <path
+             id="path42142"
+             d="m 10782.933,4395.7333 h -224 -154.666 -224 c -35.2,0 -62.934,32 -62.934,72.5334 v 439.4666 c 0,40.5334 28.8,72.5334 62.934,72.5334 h 224 154.666 224 c 35.2,0 62.934,-33.0667 62.934,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -62.934,-72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42144">
+          <path
+             id="path42146"
+             d="M 11779.2,3596.8 H 11543.467 10219.733 9984 c -36.2667,0 -66.1333,32 -66.1333,72.5333 V 4108.8 c 0,40.5333 29.8666,72.5333 66.1333,72.5333 h 235.733 1323.734 235.733 c 36.267,0 66.133,-32 66.133,-72.5333 v -439.4667 c 0,-40.5333 -29.866,-72.5333 -66.133,-72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42148">
+          <path
+             id="path42150"
+             d="m 7831.4667,4922.6667 c 0,32 -27.7334,58.6666 -60.8,58.6666 H 3195.7333 c -33.0666,0 -60.8,-26.6666 -60.8,-58.6666 v -469.3334 c 0,-32 27.7334,-58.6666 60.8,-58.6666 h 4574.9334 c 33.0666,0 60.8,26.6666 60.8,58.6666 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42152">
+          <path
+             id="path42154"
+             d="m 128,2515.2 c 0,40.5333 29.86667,72.5333 67.2,72.5333 h 779.73333 c 37.33337,0 67.19997,-33.0666 67.19997,-72.5333 v -439.4667 c 0,-40.5333 -29.8666,-72.5333 -67.19997,-72.5333 H 195.2 c -37.33333,0 -67.2,32 -67.2,72.5333 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="g42156">
+          <path
+             id="path42158"
+             d="m 124.8,3314.1333 c 0,40.5334 28.8,72.5334 64,72.5334 h 990.9333 c 35.2,0 65.0667,-32 65.0667,-72.5334 v -439.4666 c 0,-40.5334 -28.8,-72.5334 -65.0667,-72.5334 H 188.8 c -35.2,0 -64,32 -64,72.5334 z"
+             class="fil0 str0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8725,10 +9681,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="955.1863"
-     inkscape:cy="455.52127"
+     inkscape:cx="970.57255"
+     inkscape:cy="471.48868"
      inkscape:document-units="px"
-     inkscape:current-layer="g15475"
+     inkscape:current-layer="g29237"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -9140,6 +10096,20 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc"
        clip-path="url(#clipPath17839)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="background R2 and R3 extended (Not Printed)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#d0ccc0;fill-opacity:1"
+       id="rect41306"
+       width="466.69046"
+       height="147.07822"
+       x="1121.4713"
+       y="211.1329"
+       clip-path="url(#clipPath41734)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12290,7 +13260,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Key Grids (Not Printed)"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path7216-0"
@@ -16790,13 +17760,38 @@
          id="tspan8323"
          x="562.58655"
          y="386.22116" /></text>
+    <text
+       transform="scale(0.99911987,1.0008809)"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       y="255.14563"
+       x="1163.0731"
+       id="text7582-0"
+       sodipodi:linespacing="124%">
+      <tspan
+         id="tspan7584-0"
+         y="255.14563"
+         x="1163.0731"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">E</tspan>
+    </text>
+    <text
+       transform="scale(0.99911987,1.0008809)"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       y="255.08826"
+       x="1398.5378"
+       id="text7582-0-0"
+       sodipodi:linespacing="124%">
+      <tspan
+         id="tspan7584-0-1"
+         y="255.08826"
+         x="1398.5378"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">E</tspan>
+    </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g29237"
      inkscape:label="numbers gotham alternative"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        sodipodi:linespacing="124%"
        id="text29239"
@@ -17015,7 +18010,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="88.490196"
        x="366.71994"
        id="text26664-6"
@@ -17024,11 +18019,11 @@
          id="tspan26666-2"
          y="88.490196"
          x="366.71994"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">@</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">@</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="89.976112"
        x="441.24756"
        id="text26668-1"
@@ -17037,11 +18032,11 @@
          id="tspan26670-17"
          y="89.976112"
          x="441.24756"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">#</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">#</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="88.175011"
        x="227.38602"
        id="text26696-1"
@@ -17050,11 +18045,11 @@
          id="tspan26698-4"
          y="88.175011"
          x="227.38602"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">\</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">\</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="88.490211"
        x="300.85211"
        id="text26700-4"
@@ -17063,7 +18058,7 @@
          id="tspan26702-0"
          y="88.490211"
          x="300.85211"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">|</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">|</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -17119,7 +18114,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="91.331406"
        x="550.91083"
        id="text26656-2"
@@ -17128,11 +18123,11 @@
          id="tspan26658-8"
          y="91.331406"
          x="550.91083"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">~</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">~</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.06666660000000000;display:inline;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
        y="92.168518"
        x="693.95697"
        id="text26704-8"
@@ -17141,7 +18136,7 @@
          id="tspan26706-4"
          y="92.168518"
          x="693.95697"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold">¬</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold">¬</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -17796,6 +18791,725 @@
          y="266.21933"
          x="332.72171"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">€</tspan>
+    </text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g42160"
+     inkscape:label="symbols gotham alternative"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       sodipodi:linespacing="125%"
+       id="text42162"
+       x="862.18976"
+       y="197.57922"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="862.18976"
+         y="197.57922"
+         id="tspan42164">'</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42166"
+       x="934.05853"
+       y="190.85501"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="934.05853"
+         y="190.85501"
+         id="tspan42168">¡</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42170"
+       x="67.082077"
+       y="197.80345"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="67.082077"
+         y="197.80345"
+         id="tspan42172">º</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42174"
+       x="67.193977"
+       y="175.79674"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="67.193977"
+         y="175.79674"
+         id="tspan42176">ª</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42178"
+       x="127.19646"
+       y="164.90416"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911986,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="127.19646"
+         y="164.90416"
+         id="tspan42180">!</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42182"
+       x="197.72102"
+       y="167.90668"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="197.72102"
+         y="167.90668"
+         id="tspan42184">&quot;</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42186"
+       x="269.55933"
+       y="164.23216"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="269.55933"
+         y="164.23216"
+         id="tspan42188">·</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42190"
+       x="341.85989"
+       y="164.63817"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="341.85989"
+         y="164.63817"
+         id="tspan42192">$</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42194"
+       x="414.00647"
+       y="164.91817"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="414.00647"
+         y="164.91817"
+         id="tspan42196">%</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42198"
+       x="486.07095"
+       y="164.93216"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="486.07095"
+         y="164.93216"
+         id="tspan42200">&amp;</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42202"
+       x="559.21906"
+       y="164.70816"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911986,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="559.21906"
+         y="164.70816"
+         id="tspan42204">/</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42206"
+       x="632.15375"
+       y="164.03618"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911986,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="632.15375"
+         y="164.03618"
+         id="tspan42208">(</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42210"
+       x="704.18378"
+       y="164.03618"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911986,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="704.18378"
+         y="164.03618"
+         id="tspan42212">)</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42214"
+       x="774.42889"
+       y="164.94617"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911986,1.0008809)">
+      <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="774.42889"
+         y="164.94617"
+         id="tspan42216">=</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42218"
+       x="859.97375"
+       y="170.25717"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="859.97375"
+         y="170.25717"
+         id="tspan42220">?</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42222"
+       x="931.836"
+       y="170.19852"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="931.836"
+         y="170.19852"
+         id="tspan42224">¿</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42226"
+       x="964.75592"
+       y="265.39438"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="964.75592"
+         y="265.39438"
+         id="tspan42228">+</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42230"
+       x="807.22314"
+       y="406.04642"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="807.22314"
+         y="406.04642"
+         id="tspan42232">.</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42234"
+       x="877.32977"
+       y="407.07892"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="877.32977"
+         y="407.07892"
+         id="tspan42236">-</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42238"
+       x="967.09595"
+       y="247.55144"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="967.09595"
+         y="247.55144"
+         id="tspan42240">*</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42242"
+       x="912.16101"
+       y="319.22214"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="912.16101"
+         y="319.22214"
+         id="tspan42244">¨</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42246"
+       x="735.6167"
+       y="406.08078"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="735.6167"
+         y="406.08078"
+         id="tspan42248">,</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42250"
+       x="735.4967"
+       y="386.55682"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="735.4967"
+         y="386.55682"
+         id="tspan42252">;</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42254"
+       x="807.10315"
+       y="386.47552"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="807.10315"
+         y="386.47552"
+         id="tspan42256">:</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42258"
+       x="875.02582"
+       y="381.61099"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="875.02582"
+         y="381.61099"
+         id="tspan42260">_</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42262"
+       x="1002.7838"
+       y="336.93695"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911985,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1002.7838"
+         y="336.93695"
+         id="tspan42264">}</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42266"
+       x="981.53601"
+       y="327.08127"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="981.53601"
+         y="327.08127"
+         id="tspan42268">Ç</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42270"
+       x="153.99278"
+       y="408.43613"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="153.99278"
+         y="408.43613"
+         id="tspan42272">&lt;</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42274"
+       x="153.99278"
+       y="388.47025"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="153.99278"
+         y="388.47025"
+         id="tspan42276">&gt;</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42278"
+       x="370.50177"
+       y="194.88489"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="370.50177"
+         y="194.88489"
+         id="tspan42280">~</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42282"
+       x="985.81616"
+       y="264.99234"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911985,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="985.81616"
+         y="264.99234"
+         id="tspan42284">]</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42286"
+       x="222.14293"
+       y="193.03984"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="222.14293"
+         y="193.03984"
+         id="tspan42288">@</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42290"
+       x="296.67053"
+       y="194.52576"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="296.67053"
+         y="194.52576"
+         id="tspan42292">#</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42294"
+       x="894.66138"
+       y="276.99414"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="894.66138"
+         y="276.99414"
+         id="tspan42296">`</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42298"
+       x="894.19562"
+       y="247.55141"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="894.19562"
+         y="247.55141"
+         id="tspan42300">^</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42302"
+       x="912.99554"
+       y="264.99234"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911985,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="912.99554"
+         y="264.99234"
+         id="tspan42304">[</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42306"
+       x="930.19727"
+       y="336.93695"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911985,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="930.19727"
+         y="336.93695"
+         id="tspan42308">{</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42310"
+       x="911.69299"
+       y="348.95267"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="911.69299"
+         y="348.95267"
+         id="tspan42312">´</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42314"
+       x="82.809113"
+       y="192.72466"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="82.809113"
+         y="192.72466"
+         id="tspan42316">\</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42318"
+       x="156.2751"
+       y="193.03986"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911985,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="156.2751"
+         y="193.03986"
+         id="tspan42320">|</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42322"
+       x="513.54791"
+       y="195.722"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
+         x="513.54791"
+         y="195.722"
+         id="tspan42324">¬</tspan>
+    </text>
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot42326"
+       xml:space="preserve"><flowRegion
+         id="flowRegion42328"><rect
+           y="127.38462"
+           x="27"
+           height="76.846153"
+           width="476.65384"
+           id="rect42330" /></flowRegion><flowPara
+         id="flowPara42332" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text42334"
+       x="332.72171"
+       y="266.21933"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="332.72171"
+         y="266.21933"
+         id="tspan42336">€</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42334-1"
+       x="1180.9174"
+       y="266.50134"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1180.9174"
+         y="266.50134"
+         id="tspan42336-2">€</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42226-6"
+       x="1308.1582"
+       y="265.18478"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1308.1582"
+         y="265.18478"
+         id="tspan42228-5">+</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42238-8"
+       x="1310.4983"
+       y="247.3419"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1310.4983"
+         y="247.3419"
+         id="tspan42240-1">*</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42282-2"
+       x="1329.2184"
+       y="264.78275"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1329.2184"
+         y="264.78275"
+         id="tspan42284-1">]</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42294-0"
+       x="1238.0637"
+       y="276.78455"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1238.0637"
+         y="276.78455"
+         id="tspan42296-9">`</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42298-1"
+       x="1237.5979"
+       y="247.34187"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1237.5979"
+         y="247.34187"
+         id="tspan42300-6">^</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42302-9"
+       x="1256.3977"
+       y="264.78275"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1256.3977"
+         y="264.78275"
+         id="tspan42304-7">[</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42242-3"
+       x="1400.553"
+       y="317.57831"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1400.553"
+         y="317.57831"
+         id="tspan42244-9">¨</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42262-0"
+       x="1491.1758"
+       y="335.29312"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1491.1758"
+         y="335.29312"
+         id="tspan42264-7">}</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42266-5"
+       x="1469.928"
+       y="325.43744"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1469.928"
+         y="325.43744"
+         id="tspan42268-4">Ç</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42306-7"
+       x="1418.5892"
+       y="335.29312"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1418.5892"
+         y="335.29312"
+         id="tspan42308-2">{</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text42310-5"
+       x="1400.085"
+       y="347.30884"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="1400.085"
+         y="347.30884"
+         id="tspan42312-9">´</tspan>
     </text>
   </g>
 </svg>
