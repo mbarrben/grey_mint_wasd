@@ -11592,11 +11592,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="734.83477"
-     inkscape:cy="503.66974"
+     inkscape:zoom="1"
+     inkscape:cx="393.68401"
+     inkscape:cy="461.25329"
      inkscape:document-units="px"
-     inkscape:current-layer="g16686"
+     inkscape:current-layer="g16495"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -11632,7 +11632,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -18265,6 +18265,13 @@
          x="363.33154"
          y="-164.42307"
          id="tspan16656">WASD palette</tspan></text>
+    <rect
+       id="rect16499-7"
+       style="fill:#002e5f;fill-opacity:1;display:inline"
+       height="14.669935"
+       width="16.421339"
+       y="-123.85595"
+       x="363.45361" />
   </g>
   <g
      inkscape:groupmode="layer"
