@@ -10636,9 +10636,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1297.5261"
-     inkscape:cy="457.19421"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="549.31407"
+     inkscape:cy="603.06558"
      inkscape:document-units="px"
      inkscape:current-layer="g29237"
      showgrid="false"
@@ -18838,7 +18838,8 @@
      inkscape:groupmode="layer"
      id="g29237"
      inkscape:label="numbers gotham alternative"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="124%"
        id="text29239"
@@ -18916,19 +18917,6 @@
          x="676.69806"
          y="78.567291"
          id="tspan29261">6</tspan>
-    </text>
-    <text
-       sodipodi:linespacing="124%"
-       id="text29263"
-       x="749.16858"
-       y="78.606995"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
-       transform="scale(0.99911987,1.0008809)">
-      <tspan
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
-         x="749.16858"
-         y="78.606995"
-         id="tspan29265">7</tspan>
     </text>
     <text
        sodipodi:linespacing="124%"
@@ -19148,19 +19136,6 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
-       y="61.154678"
-       x="739.62811"
-       id="text26472-8"
-       sodipodi:linespacing="125%">
-      <tspan
-         id="tspan26474-8"
-         y="61.154678"
-         x="739.62811"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">/</tspan>
-    </text>
-    <text
-       transform="scale(0.99911987,1.0008809)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="91.331406"
        x="550.91083"
@@ -19294,9 +19269,10 @@
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        id="text26484-3-7">
       <path
-         d="m 1391.1417,162.67313 5.5859,0 c 0.1508,-0.003 0.2762,-0.0528 0.3762,-0.14874 0.1001,-0.096 0.152,-0.21904 0.1558,-0.36925 -0,-0.14408 -0.056,-0.26541 -0.1558,-0.36399 -0.1,-0.0986 -0.2254,-0.14992 -0.3762,-0.154 l -5.5859,0 c -0.1441,0.004 -0.2654,0.0554 -0.364,0.154 -0.099,0.0986 -0.1499,0.21991 -0.154,0.36399 0,0.15021 0.055,0.27329 0.154,0.36925 0.099,0.096 0.2199,0.14554 0.364,0.14874 z m 0,-3.27595 5.5859,0 c 0.1508,-0.003 0.2762,-0.0528 0.3762,-0.14875 0.1001,-0.096 0.152,-0.21903 0.1558,-0.36925 -0,-0.14407 -0.056,-0.2654 -0.1558,-0.36399 -0.1,-0.0986 -0.2254,-0.14991 -0.3762,-0.154 l -5.5859,0 c -0.1441,0.004 -0.2654,0.0554 -0.364,0.154 -0.099,0.0986 -0.1499,0.21992 -0.154,0.36399 0,0.15022 0.055,0.2733 0.154,0.36925 0.099,0.096 0.2199,0.14554 0.364,0.14875 z"
+         d="m 1391.1417,162.67313 5.5859,0 c 0.1508,-0.003 0.2762,-0.0528 0.3762,-0.14874 0.1001,-0.096 0.152,-0.21904 0.1558,-0.36925 0,-0.14408 -0.056,-0.26541 -0.1558,-0.36399 -0.1,-0.0986 -0.2254,-0.14992 -0.3762,-0.154 l -5.5859,0 c -0.1441,0.004 -0.2654,0.0554 -0.364,0.154 -0.099,0.0986 -0.1499,0.21991 -0.154,0.36399 0,0.15021 0.055,0.27329 0.154,0.36925 0.099,0.096 0.2199,0.14554 0.364,0.14874 z m 0,-3.27595 5.5859,0 c 0.1508,-0.003 0.2762,-0.0528 0.3762,-0.14875 0.1001,-0.096 0.152,-0.21903 0.1558,-0.36925 0,-0.14407 -0.056,-0.2654 -0.1558,-0.36399 -0.1,-0.0986 -0.2254,-0.14991 -0.3762,-0.154 l -5.5859,0 c -0.1441,0.004 -0.2654,0.0554 -0.364,0.154 -0.099,0.0986 -0.1499,0.21992 -0.154,0.36399 0,0.15022 0.055,0.2733 0.154,0.36925 0.099,0.096 0.2199,0.14554 0.364,0.14875 z"
          style="line-height:125%;fill:#e6e6e6;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
-         id="path43892" />
+         id="path43892"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g43897">
@@ -19307,7 +19283,8 @@
         <path
            id="path43895"
            style="line-height:124.00000095%;fill:#e6e6e6;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
-           d="m 1407.0817,183.44048 c 2.1859,-0.068 3.9099,-0.92799 5.1719,-2.57997 1.262,-1.65197 1.906,-3.68795 1.932,-6.10792 l 0,-0.048 c -0.024,-2.41796 -0.66,-4.44593 -1.908,-6.08392 -1.248,-1.63797 -2.964,-2.48995 -5.1479,-2.55597 -2.187,0.068 -3.915,0.928 -5.184,2.57997 -1.2689,1.65199 -1.9169,3.68796 -1.9439,6.10792 l 0,0.048 c 0.024,2.41797 0.6605,4.44595 1.911,6.08392 1.2504,1.63798 2.9734,2.48997 5.1689,2.55597 z m 0.048,-1.72798 c -1.5905,-0.0605 -2.8435,-0.76149 -3.759,-2.10297 -0.9155,-1.34148 -1.3825,-2.96046 -1.401,-4.85694 l 0,-0.048 c 0.016,-1.90497 0.4755,-3.51894 1.377,-4.84194 0.9015,-1.32297 2.1465,-2.01296 3.735,-2.06997 1.579,0.0605 2.8249,0.7615 3.7379,2.10297 0.913,1.3415 1.379,2.96047 1.398,4.85694 l 0,0.048 c -0.015,1.89448 -0.4705,3.50546 -1.365,4.83294 -0.8945,1.32748 -2.1354,2.02047 -3.7229,2.07897 z" />
+           d="m 1407.0817,183.44048 c 2.1859,-0.068 3.9099,-0.92799 5.1719,-2.57997 1.262,-1.65197 1.906,-3.68795 1.932,-6.10792 l 0,-0.048 c -0.024,-2.41796 -0.66,-4.44593 -1.908,-6.08392 -1.248,-1.63797 -2.964,-2.48995 -5.1479,-2.55597 -2.187,0.068 -3.915,0.928 -5.184,2.57997 -1.2689,1.65199 -1.9169,3.68796 -1.9439,6.10792 l 0,0.048 c 0.024,2.41797 0.6605,4.44595 1.911,6.08392 1.2504,1.63798 2.9734,2.48997 5.1689,2.55597 z m 0.048,-1.72798 c -1.5905,-0.0605 -2.8435,-0.76149 -3.759,-2.10297 -0.9155,-1.34148 -1.3825,-2.96046 -1.401,-4.85694 l 0,-0.048 c 0.016,-1.90497 0.4755,-3.51894 1.377,-4.84194 0.9015,-1.32297 2.1465,-2.01296 3.735,-2.06997 1.579,0.0605 2.8249,0.7615 3.7379,2.10297 0.913,1.3415 1.379,2.96047 1.398,4.85694 l 0,0.048 c -0.015,1.89448 -0.4705,3.50546 -1.365,4.83294 -0.8945,1.32748 -2.1354,2.02047 -3.7229,2.07897 z"
+           inkscape:connector-curvature="0" />
       </g>
       <g
          id="text29275-0-9"
@@ -19321,6 +19298,58 @@
            sodipodi:nodetypes="ccccc" />
       </g>
     </g>
+    <text
+       transform="scale(0.99911987,1.0008809)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       y="89.922981"
+       x="621.61578"
+       id="text26668-2-9"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan26670-1-4"
+         y="89.922981"
+         x="621.61578"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">€</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="124%"
+       id="text29255-5"
+       x="749.15729"
+       y="78.269997"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         x="749.15729"
+         y="78.269997"
+         id="tspan29257-9">5</tspan>
+    </text>
+    <text
+       transform="scale(0.99911987,1.0008809)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       y="61.108696"
+       x="738.45685"
+       id="text26464-0-0"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan26466-0-3"
+         y="61.108696"
+         x="738.45685"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">%</tspan>
+    </text>
+    <text
+       transform="scale(0.99911987,1.0008809)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       y="89.666992"
+       x="765.6571"
+       id="text26668-2-9-9"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan26670-1-4-5"
+         y="89.666992"
+         x="765.6571"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c13828;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">€</tspan>
+    </text>
   </g>
   <g
      style="display:inline"
