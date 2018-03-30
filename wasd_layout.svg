@@ -6812,11 +6812,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1079.9511"
-     inkscape:cy="311.93672"
+     inkscape:zoom="1"
+     inkscape:cx="641.19944"
+     inkscape:cy="476.68926"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g29184"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -7293,7 +7293,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="background mods"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:#8ed7b0;fill-opacity:1"
        d="m 35,208 111,0 0,75 20.87672,0.39574 -2.84641,71.98823 -38.97193,0.99551 -0.16013,72.95851 181.45392,-1.75152 1.12819,72.27038 444.27112,-1.55042 2.47398,-68.01889 163.34366,-5.00043 -0.91043,-66.6674 L 1028.0285,353.6756 1001.5741,208.72525 1122,208 l 10.6066,132.53345 c 128.6163,5.62978 287.0033,9.47717 452.2662,14.86766 l 0.831,71.40952 1.4153,68.83283 -71.7846,1.39264 -0.712,-70.91715 -147.9636,-1.4398 -9.1923,-62.2254 -224.943,-4.85045 c 0.9036,48.78474 -0.6714,97.51984 -2.0383,146.27539 L 35,506 z"
@@ -12493,6 +12494,38 @@
          id="tspan16656">WASD palette</tspan></text>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="g29184"
+     inkscape:label="palette - custom"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       x="638.45361"
+       y="-159.14673"
+       width="16.421339"
+       height="14.669935"
+       style="fill:#e6e6e6;fill-opacity:1;display:inline"
+       id="rect29186" />
+    <rect
+       style="fill:#002e5f;fill-opacity:0;display:inline"
+       x="638.45361"
+       y="-141.5428"
+       width="16.421339"
+       height="14.669935"
+       id="rect29210" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text29232"
+       y="-164.42307"
+       x="638.33154"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan29234"
+         y="-164.42307"
+         x="638.33154"
+         sodipodi:role="line">Custom palette</tspan></text>
+  </g>
+  <g
      style="display:inline"
      inkscape:label="mods gotham"
      id="g16686"
@@ -12668,7 +12701,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="179.10583"
        x="1005.2581"
        id="text16748"
@@ -12676,13 +12709,13 @@
       <tspan
          id="tspan16750"
          sodipodi:role="line"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
          x="1005.2581"
          y="179.10583">BACKSPACE</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="179.13583"
        x="1158.866"
        id="text16752"
@@ -12690,13 +12723,13 @@
       <tspan
          id="tspan16754"
          sodipodi:role="line"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
          x="1158.866"
          y="179.13583">DEL</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="74.36734"
        x="59.152798"
        id="text16784"
@@ -12706,7 +12739,7 @@
          sodipodi:role="line"
          y="74.36734"
          x="59.152798"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">ESC</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">ESC</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -12943,19 +12976,19 @@
     <g
        id="g26258"
        transform="translate(6.9999698,-1.4012155)"
-       style="fill:#373534;fill-opacity:1">
+       style="fill:#e6e6e6;fill-opacity:1">
       <text
          sodipodi:linespacing="125%"
          id="text16756"
          x="1219.5544"
          y="173.71477"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
          transform="scale(0.99911987,1.0008809)">
         <tspan
            id="tspan26223"
            y="173.71477"
            x="1219.5544"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
            sodipodi:role="line">BACK</tspan>
       </text>
       <text
@@ -12963,13 +12996,13 @@
          id="text16756-1"
          x="1215.5709"
          y="187.29686"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;display:inline;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
          transform="scale(0.99911987,1.0008809)">
         <tspan
            id="tspan26223-7"
            y="187.29686"
            x="1215.5709"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
            sodipodi:role="line">SPACE</tspan>
       </text>
     </g>
@@ -13561,7 +13594,7 @@
      sodipodi:insensitive="true">
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="182.85808"
        x="140.38063"
        id="text7474"
@@ -13570,11 +13603,11 @@
          id="tspan7476"
          y="182.85808"
          x="140.38063"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">1</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">1</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.42578"
        x="208.85562"
        id="text7478"
@@ -13583,11 +13616,11 @@
          id="tspan7480"
          y="183.42578"
          x="208.85562"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">2</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">2</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.26109"
        x="280.66574"
        id="text7482"
@@ -13596,11 +13629,11 @@
          id="tspan7484"
          y="183.26109"
          x="280.66574"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">3</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">3</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.36577"
        x="351.92432"
        id="text7486"
@@ -13609,11 +13642,11 @@
          id="tspan7488"
          y="183.36577"
          x="351.92432"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">4</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">4</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.26448"
        x="424.62326"
        id="text7490"
@@ -13622,11 +13655,11 @@
          id="tspan7492"
          y="183.26448"
          x="424.62326"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">5</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">5</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.30577"
        x="496.20538"
        id="text7494"
@@ -13635,11 +13668,11 @@
          id="tspan7496"
          y="183.30577"
          x="496.20538"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">6</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">6</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.34547"
        x="568.6759"
        id="text7498"
@@ -13648,11 +13681,11 @@
          id="tspan7500"
          y="183.34547"
          x="568.6759"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">7</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">7</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.30577"
        x="640.5105"
        id="text7502"
@@ -13661,11 +13694,11 @@
          id="tspan7504"
          y="183.30577"
          x="640.5105"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">8</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">8</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.30577"
        x="712.34509"
        id="text7506"
@@ -13674,11 +13707,11 @@
          id="tspan7508"
          y="183.30577"
          x="712.34509"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">9</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">9</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="183.30577"
        x="783.51959"
        id="text7510"
@@ -13687,7 +13720,7 @@
          id="tspan7512"
          y="183.30577"
          x="783.51959"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">0</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:124.00000095%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">0</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -14070,7 +14103,7 @@
      sodipodi:insensitive="true">
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="197.57922"
        x="862.18976"
        id="text26436"
@@ -14079,11 +14112,11 @@
          id="tspan26438"
          y="197.57922"
          x="862.18976"
-         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">'</tspan>
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">'</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="190.85501"
        x="934.05853"
        id="text26440"
@@ -14092,11 +14125,11 @@
          id="tspan26442"
          y="190.85501"
          x="934.05853"
-         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">¡</tspan>
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">¡</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="197.80345"
        x="67.082077"
        id="text26392"
@@ -14105,11 +14138,11 @@
          id="tspan26394"
          y="197.80345"
          x="67.082077"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">º</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">º</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="175.79674"
        x="67.193977"
        id="text26444"
@@ -14118,11 +14151,11 @@
          id="tspan26446"
          y="175.79674"
          x="67.193977"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">ª</tspan>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">ª</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.90416"
        x="127.19646"
        id="text26448"
@@ -14131,11 +14164,11 @@
          id="tspan26450"
          y="164.90416"
          x="127.19646"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">!</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">!</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="167.90669"
        x="197.72102"
        id="text26452"
@@ -14144,11 +14177,11 @@
          id="tspan26454"
          y="167.90669"
          x="197.72102"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">&quot;</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">&quot;</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.23218"
        x="269.51123"
        id="text26456"
@@ -14157,11 +14190,11 @@
          id="tspan26458"
          y="164.23218"
          x="269.51123"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">·</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">·</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.63817"
        x="341.85989"
        id="text26460"
@@ -14170,11 +14203,11 @@
          id="tspan26462"
          y="164.63817"
          x="341.85989"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">$</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">$</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.91817"
        x="414.00647"
        id="text26464"
@@ -14183,11 +14216,11 @@
          id="tspan26466"
          y="164.91817"
          x="414.00647"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">%</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">%</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.93216"
        x="486.07095"
        id="text26468"
@@ -14196,11 +14229,11 @@
          id="tspan26470"
          y="164.93216"
          x="486.07095"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">&amp;</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">&amp;</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.70816"
        x="559.21906"
        id="text26472"
@@ -14209,11 +14242,11 @@
          id="tspan26474"
          y="164.70816"
          x="559.21906"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">/</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">/</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.03618"
        x="632.15375"
        id="text26476"
@@ -14222,11 +14255,11 @@
          id="tspan26478"
          y="164.03618"
          x="632.15375"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">(</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">(</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.03618"
        x="704.18378"
        id="text26480"
@@ -14235,11 +14268,11 @@
          id="tspan26482"
          y="164.03618"
          x="704.18378"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">)</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">)</tspan>
     </text>
     <text
        transform="scale(0.99911986,1.0008809)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="164.94617"
        x="774.42889"
        id="text26484"
@@ -14248,11 +14281,11 @@
          id="tspan26486"
          y="164.94617"
          x="774.42889"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">=</tspan>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">=</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="170.25717"
        x="859.97375"
        id="text26488"
@@ -14261,11 +14294,11 @@
          id="tspan26490"
          y="170.25717"
          x="859.97375"
-         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">?</tspan>
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">?</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="170.19852"
        x="931.836"
        id="text26492"
@@ -14274,7 +14307,7 @@
          id="tspan26494"
          y="170.19852"
          x="931.836"
-         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">¿</tspan>
+         style="font-size:15.98591805px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">¿</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -14447,7 +14480,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="194.88489"
        x="370.50177"
        id="text26656"
@@ -14456,7 +14489,7 @@
          id="tspan26658"
          y="194.88489"
          x="370.50177"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">~</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">~</tspan>
     </text>
     <text
        transform="scale(0.99911985,1.0008809)"
@@ -14473,7 +14506,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="193.03984"
        x="222.14293"
        id="text26664"
@@ -14482,11 +14515,11 @@
          id="tspan26666"
          y="193.03984"
          x="222.14293"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">@</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">@</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="194.52576"
        x="296.67053"
        id="text26668"
@@ -14495,7 +14528,7 @@
          id="tspan26670"
          y="194.52576"
          x="296.67053"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">#</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">#</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
@@ -14564,7 +14597,7 @@
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="192.72466"
        x="82.809113"
        id="text26696"
@@ -14573,11 +14606,11 @@
          id="tspan26698"
          y="192.72466"
          x="82.809113"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">\</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">\</tspan>
     </text>
     <text
        transform="scale(0.99911985,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'"
        y="193.03986"
        x="156.2751"
        id="text26700"
@@ -14586,11 +14619,11 @@
          id="tspan26702"
          y="193.03986"
          x="156.2751"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">|</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Gotham Rounded Book;-inkscape-font-specification:'Gotham Rounded Book, Light'">|</tspan>
     </text>
     <text
        transform="scale(0.99911987,1.0008809)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;stroke-width:1.0666666;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke-width:1.0666666;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold"
        y="195.722"
        x="513.54791"
        id="text26704"
@@ -14599,7 +14632,7 @@
          id="tspan26706"
          y="195.722"
          x="513.54791"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373534;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold">¬</tspan>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:HelveticaRounded LT Std Bd;-inkscape-font-specification:HelveticaRounded LT Std Bd Bold">¬</tspan>
     </text>
     <flowRoot
        xml:space="preserve"
