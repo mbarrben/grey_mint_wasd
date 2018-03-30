@@ -6812,11 +6812,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="788.96842"
-     inkscape:cy="389.34761"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1079.9511"
+     inkscape:cy="311.93672"
      inkscape:document-units="px"
-     inkscape:current-layer="layer33"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -7293,14 +7293,13 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="background mods"
-     sodipodi:insensitive="true"
      style="display:inline">
     <path
        style="fill:#8ed7b0;fill-opacity:1"
-       d="m 35,208 111,0 0,75 20.87672,0.39574 -2.84641,71.98823 -38.97193,0.99551 -0.16013,72.95851 181.45392,-1.75152 1.12819,72.27038 444.27112,-1.55042 2.47398,-68.01889 163.34366,-5.00043 -0.91043,-66.6674 L 1028.0285,353.6756 1001.5741,208.72525 1122,208 l 0,298 -1087,0 z"
+       d="m 35,208 111,0 0,75 20.87672,0.39574 -2.84641,71.98823 -38.97193,0.99551 -0.16013,72.95851 181.45392,-1.75152 1.12819,72.27038 444.27112,-1.55042 2.47398,-68.01889 163.34366,-5.00043 -0.91043,-66.6674 L 1028.0285,353.6756 1001.5741,208.72525 1122,208 l 10.6066,132.53345 c 128.6163,5.62978 287.0033,9.47717 452.2662,14.86766 l 0.831,71.40952 1.4153,68.83283 -71.7846,1.39264 -0.712,-70.91715 -147.9636,-1.4398 -9.1923,-62.2254 -224.943,-4.85045 c 0.9036,48.78474 -0.6714,97.51984 -2.0383,146.27539 L 35,506 z"
        id="rect22113"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccc"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc"
        clip-path="url(#clipPath22116)" />
   </g>
   <g
