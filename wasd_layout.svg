@@ -6816,7 +6816,7 @@
      inkscape:cx="641.19944"
      inkscape:cy="476.68926"
      inkscape:document-units="px"
-     inkscape:current-layer="g29184"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -7235,14 +7235,13 @@
      inkscape:label="background esc"
      style="display:inline"
      sodipodi:insensitive="true">
-    <rect
+    <path
        style="fill:#c13828;fill-opacity:1"
+       clip-path="url(#clipPath18694)"
+       d="m 35,31 75,0 -1,74 -74,1 z"
        id="rect18266"
-       width="75"
-       height="184"
-       x="35"
-       y="31"
-       clip-path="url(#clipPath18694)" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7253,10 +7252,10 @@
     <rect
        style="fill:#96938e;fill-opacity:1"
        id="rect19121"
-       width="868"
-       height="76"
-       x="107"
-       y="135"
+       width="962"
+       height="80"
+       x="13"
+       y="131"
        clip-path="url(#clipPath19549)" />
   </g>
   <g
