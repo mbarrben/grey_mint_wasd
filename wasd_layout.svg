@@ -7769,10 +7769,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="519.08866"
+     inkscape:cx="996.1985"
      inkscape:cy="455.52127"
      inkscape:document-units="px"
-     inkscape:current-layer="g26390"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -8202,32 +8202,17 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="background numbers"
+     inkscape:label="background numbers row"
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#96938e;fill-opacity:1"
        id="rect19121"
-       width="962"
+       width="1660.6215"
        height="80"
        x="13"
        y="131"
        clip-path="url(#clipPath19549)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="background backspace"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#96938e;fill-opacity:1"
-       id="rect22542"
-       width="312.5412"
-       height="74.953316"
-       x="972.97894"
-       y="137.5938"
-       clip-path="url(#clipPath22970)" />
   </g>
   <g
      inkscape:groupmode="layer"
