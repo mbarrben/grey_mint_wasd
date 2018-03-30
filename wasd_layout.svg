@@ -11592,11 +11592,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="899.24299"
-     inkscape:cy="345.0247"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1124.1048"
+     inkscape:cy="474.68377"
      inkscape:document-units="px"
-     inkscape:current-layer="g16686"
+     inkscape:current-layer="layer39"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -15837,7 +15837,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Artwork"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
@@ -16443,12 +16443,6 @@
        id="g42637"
        transform="translate(-228,1)" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="custom artwork"
-     sodipodi:insensitive="true"
-     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer39"
